@@ -34,7 +34,7 @@ Install the **DHT sensor library by Adafruit** along with all the dependecies fr
 
 **Step 3:**   Now go to **Files-->Examples-->DHT Sensor library** and select any one of the two example codes:
 
-![image](/dhtex.jpg)
+![image](/dhtex.PNG)
 
 **Step 4:**  Now compile the program by clicking on the **Verify** button or by pressing **Ctrl+R**.
 
