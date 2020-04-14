@@ -16,7 +16,9 @@ code short and easy to write.
 - DuPont wires(Female to Male)
 
 **Principles**
+
 **Experimental Procedures**
+
 **Step 1:**  Connect circuit as shown in the following photo:
 
 ![image](/tandh2.jpg)
