@@ -14,7 +14,7 @@ code short and easy to write.
 - 1 * Arduino Uno board
 - 1 * USB cable
 - 1 * temp and humidity module
-- DuPont wires(Female to Male)
+- Jumper wires(Female to Male)
 
 **Principles**
 
@@ -60,7 +60,7 @@ design. So in order to use it in a better way, we provide the corresponding modu
 - 1 * Arduino Uno board
 - 1 * USB cable
 - 1 * photo-resistor module
-- DuPont wires(Female to Male)
+- Jumper wires(Female to Male)
 
 **Principle**
 
