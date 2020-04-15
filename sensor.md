@@ -1,6 +1,7 @@
 # SENSORS
 ## 1. TEMPERATURE AND HUMIDITY MODULE
 **Introduction**
+
 In this tutorial we will learn how to use a DHT11 Temperature and Humidity Sensor.
 It’s accurate enough for most projects that need to keep track of humidity and
 temperature readings.
@@ -48,6 +49,7 @@ Install the **DHT sensor library by Adafruit** along with all the dependecies fr
 
 ## 2. PHOTORESISTOR MODULE
 **Introduction**
+
 In this tutorial, we will learn how to use photoresistor module.Photo-resistor is very common in our daily life. it is mainly used in intelligent switch so as to bring convenience to our life. At the same time, in our daily life, we also use it in electronic 
 design. So in order to use it in a better way, we provide the corresponding modules to help us to use it more conveniently and efficiently.
 
