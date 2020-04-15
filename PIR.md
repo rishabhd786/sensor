@@ -31,7 +31,7 @@ time (the potentiometer at the left) and the sensitivity (the potentiometer at t
 **Step 2:** Now paste the following code in your Arduino IDE:
 
 **Code**:-
-
+```
 /*  
     Arduino with PIR motion sensor
     For complete project details, visit: http://RandomNerdTutorials.com/pirsensor
@@ -70,8 +70,7 @@ void loop(){
     }
   }
 }
-
-
+```
 
 **Step 4:**  Now compile the program by clicking on the **Verify** button or by pressing **Ctrl+R**.
 
