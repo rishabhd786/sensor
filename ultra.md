@@ -13,13 +13,21 @@ complete with ultrasonic transmitter and receiver module.
 Some features of this sensor are:
 
  Power Supply :+5V DC
+
  Quiescent Current : <2mA
+
  Working Current: 15mA
+
  Effectual Angle: <15°
+
  Ranging Distance : 2cm – 400 cm/1′′ – 13ft
+
  Resolution : 0.3 cm
+
  Measuring Angle: 30 degree
+
  Trigger Input Pulse width: 10uS
+
  Dimensions: 45mm x 20mm x 15mm
 
 **Components**
