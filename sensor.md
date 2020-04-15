@@ -51,7 +51,7 @@ Install the **DHT sensor library by Adafruit** along with all the dependecies fr
 In this tutorial, we will learn how to use photoresistor module.Photo-resistor is very common in our daily life. it is mainly used in intelligent switch so as to bring convenience to our life. At the same time, in our daily life, we also use it in electronic 
 design. So in order to use it in a better way, we provide the corresponding modules to help us to use it more conveniently and efficiently.
 
-![image](/photosensor.png)
+![image](/photosensor.PNG)
 
 **Components**
 
@@ -68,11 +68,11 @@ Photo-resistor module is a photosensitive semiconductor device. In addition to h
 
 **Step 1:** The corresponding schematic diagram is as follows:
 
-![image](phconn.png)
+![image](phconn.PNG)
 
 **Step 2:** Connect circuit as shown in the following photo:
 
-![image](phcircuit.png)
+![image](phcircuit.PNG)
 
 **Step 3:** Open the program using **File→Examples→Analog→AnalogInOutSerial**. Change variables according to your circuit connections.
 
@@ -84,4 +84,4 @@ Photo-resistor module is a photosensitive semiconductor device. In addition to h
 
 **Step 6:** Open the **TOOL→Serial Monitor**, and we can see the data as below:
 
-![image](phreading.png)
+![image](phreading.PNG)
